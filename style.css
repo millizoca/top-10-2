@@ -1,0 +1,17 @@
+   body {
+       text-align: center;
+       background-color: rgb(124, 122, 255);
+       color: white;
+   }
+   body:hover{
+    background-color:rgb(123, 255, 140)
+   }
+
+   img{
+    opacity: 1;
+   }
+   img:hover{
+    opacity:1;
+    border: 10px black solid;
+    zoom: 1.25
+   }
